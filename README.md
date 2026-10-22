@@ -1,2 +1,0 @@
-# daspro
-pratikum daspro
